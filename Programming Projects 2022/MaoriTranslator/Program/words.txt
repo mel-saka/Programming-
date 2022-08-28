@@ -1,0 +1,173 @@
+I go
+She goes
+He goes
+We go
+we (2 incl) go
+we (2 excl) go
+we (3 incl) go
+we (3 excl) go
+we (30000 excl) go
+we (312363 incl) go
+You go
+you(1 incl) go
+you(2 incl) go
+you(3 incl) go
+you (123 incl) go
+they go
+they(2 excl) go
+they(3 excl) go
+they(50 excl) go
+I am going
+She is going
+He is going
+We are going
+we (2 incl) are going
+we (2 excl) are going
+we (3 incl) are going
+we (3 excl) are going
+we (30000 excl) are going
+we (312363 incl) are going
+You are going
+you(1 incl) are going
+you(2 incl) are going
+you(3 incl) are going
+you (123 incl) are going
+they are going
+they(2 excl) are going
+they(3 excl) are going
+they(50 excl) are going
+I did go
+She did go
+He did go
+We did go
+we (2 incl) did go
+we (2 excl) did go
+we (3 incl) did go
+we (3 excl) did go
+we (30000 excl) did go
+we (312363 incl) did go
+You did go
+you(1 incl) did go
+you(2 incl) did go
+you(3 incl) did go
+you (123 incl) did go
+they did go
+they(2 excl) did go
+they(3 excl) did go
+they(50 excl) did go
+I went
+She went
+He went
+We went
+we (2 incl) went
+we (2 excl) went
+we (3 incl) went
+we (3 excl) went
+we (30000 excl) went
+we (312363 incl) went
+You went
+you(1 incl) went
+you(2 incl) went
+you(3 incl) went
+you (123 incl) went
+they went
+they(2 excl) went
+they(3 excl) went
+they(50 excl) went
+I will go
+She will go
+He will go
+We will go
+we (2 incl) will go
+we (2 excl) will go
+we (3 incl) will go
+we (3 excl) will go
+we (30000 excl) will go
+we (312363 incl) will go
+You will go
+you(1 incl) will go
+you(2 incl) will go
+you(3 incl) will go
+you (123 incl) will go
+they will go
+they(2 excl) will go
+they(3 excl) will go
+they(50 excl) will go
+I read
+She reads
+He reads
+We read
+we (2 incl) are reading
+we (2 excl) are reading
+we (3 incl) are reading
+we (3 excl) are reading
+we (30000 excl) are reading
+we (312363 incl) are reading
+You are reading
+you(1 incl) are reading
+you(2 incl) are reading
+you(3 incl) are reading
+you (123 incl) are reading
+they are reading
+they(2 excl) are reading
+they(3 excl) are reading
+they(50 excl) are reading
+I am reading
+She is reading
+He is reading
+I did read
+She did read
+He did read
+We did read
+we (2 incl) did read
+we (2 excl) did read
+we (3 incl) did read
+we (3 excl) did read
+we (30000 excl) read
+we (312363 incl) did read
+You did read
+you(1 incl) did read
+you(2 incl) did read
+you(3 incl) did read
+you (123 incl) did read
+they did read
+they(2 excl) did read
+they(3 excl) did read
+they(50 excl) did read
+She read
+He  read
+We read
+we (2 incl) read
+we (2 excl) read
+we (3 incl) read
+we (3 excl) read
+we (30000 excl) read
+we (312363 incl) read
+You read
+you(1 incl) read
+you(2 incl) read
+you(3 incl) read
+you (123 incl) read
+they read
+they(2 excl) read
+they(3 excl) read 
+they(50 excl) read
+I will read
+She will read
+He will read
+We will read
+we (2 incl) will read
+we (2 excl) will read
+we (3 incl) will read
+we (3 excl) will read
+we (30000 excl) will read
+we (312363 incl) will read
+You will read
+you(1 incl) will read
+you(2 incl) will read
+you(3 incl) will read
+you (123 incl) will read
+they will read
+they(2 excl) will read
+they(3 excl) will read
+they(50 excl) will read

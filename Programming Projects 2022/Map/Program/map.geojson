@@ -1,0 +1,15 @@
+{ 
+ "type": "FeatureCollection", 
+ "features" : [{ 
+ "type": "Feature", 
+ "properties": {"Label": "OwheoThree" 
+ },
+ "geometry": { 
+ "type": "Point", 
+ "coordinates": [ 
+170.517806, 
+-45.8671
+ ]   } 
+ } 
+ ] 
+ } 
